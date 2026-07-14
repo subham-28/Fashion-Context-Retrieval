@@ -217,11 +217,11 @@ Below are sample retrieval results produced by the hybrid search pipeline.
 
 | Query | Top Retrieved Images | Best Score |
 |------|-----------------------|-----------:|
-| **A person in a bright yellow raincoat** | <img src="results/1.png" width="120"/> | **0.0264** |
+| **A person in a bright yellow raincoat** | <img src="results/1.png" width="120"/> <img src="results/6.png" width="120"/> <img src="results/7.png" width="120"/>| **0.0264** |
 | **Someone wearing a blue shirt sitting on a park bench** | <img src="results/2.png" width="120"/> | **0.8002** |
-| **Professional business attire inside a modern office** | <img src="results/3.png" width="120"/> | **0.3170** |
-| **A red tie and a white shirt in a formal setting** | <img src="results/4.png" width="120"/> | **0.0512** |
-| **Casual weekend outfit for a city walk** | <img src="results/5.png" width="120"/> | **0.6220** |
+| **Professional business attire inside a modern office** | <img src="results/3.png" width="120"/><img src="results/8.png" width="120"/> | **0.3170** |
+| **A red tie and a white shirt in a formal setting** | <img src="results/4.png" width="120"/><img src="results/9.png" width="120"/> | **0.0512** |
+| **Casual weekend outfit for a city walk** | <img src="results/5.png" width="120"/><img src="results/10.png" width="120"/><img src="results/11.png" width="120"/> | **0.6220** |
 
 ---
 
