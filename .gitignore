@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.env
+.venv/
+env/
+venv/
+.ipynb_checkpoints/
+
+# IDE/Editor files
+.vscode/
+.idea/
+.DS_Store
+
+# Large files
+*.bin
+*.safetensors
+*.pt
+*.pth
